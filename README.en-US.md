@@ -12,28 +12,18 @@ Help users find, learn, and apply AI prompts by thesis-writing stage, from topic
 
 ## Categories
 
-Prompts are organized under `prompts/` by writing stage:
+Currently available prompt categories:
 
-| Directory | Description |
-|-----------|-------------|
-| `01-topic-selection` | Topic selection |
-| `02-research-proposal` | Research proposal / prospectus |
-| `03-literature-search-reading` | Literature search and reading |
-| `04-literature-review` | Literature review |
-| `05-thesis-outline` | Thesis outline |
-| `06-research-methods-data-analysis` | Research methods and data analysis |
-| `07-academic-writing-revision` | Academic writing and revision |
-| `08-citations-references-formatting` | Citations, references, and formatting |
-| `09-final-check` | Final check |
-| `10-presentation-defense` | Presentation and defense |
+| Directory | Description | Entries |
+|-----------|-------------|---------|
+| [`01-topic-selection`](prompts/01-topic-selection/) | Topic selection | [Undergraduate Thesis Topic Selection AI Prompts](prompts/01-topic-selection/undergraduate-thesis-topic-selection/en-US.md) |
 
-Additional documentation may go in `docs/`.
+Other writing-stage directories are reserved and will be listed here once official prompts are added.
 
 ## How to Use
 
-1. Open the category folder under `prompts/` that matches your current writing stage.
-2. Locate the prompt entry you need.
-3. Each official prompt will eventually provide both `zh-CN.md` (Chinese) and `en-US.md` (English); use the language that fits your workflow.
+1. Open a category from the table above and locate the prompt entry you need.
+2. Each official prompt provides both `zh-CN.md` (Chinese) and `en-US.md` (English); use the language that fits your workflow.
 
 ## How to Contribute
 
@@ -41,7 +31,7 @@ Contributions are welcome: new prompts, improvements to existing content, or doc
 
 ## Current Status
 
-This repository currently contains only the directory framework. No official prompts have been added yet. Category folders are empty for now and will be filled by maintainers later.
+One topic-selection prompt set is available. Other categories do not yet include official prompts.
 
 ## License
 

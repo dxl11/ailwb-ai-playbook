@@ -12,28 +12,18 @@ Ailwb AI Playbook 是一个面向大学生的论文写作 AI 指令开源仓库�
 
 ## 内容分类
 
-指令按写作阶段存放在 `prompts/` 目录下：
+目前已收录的指令分类如下：
 
-| 目录 | 说明 |
-|------|------|
-| `01-topic-selection` | 选题 |
-| `02-research-proposal` | 研究计划 / 开题 |
-| `03-literature-search-reading` | 文献检索与阅读 |
-| `04-literature-review` | 文献综述 |
-| `05-thesis-outline` | 论文大纲 |
-| `06-research-methods-data-analysis` | 研究方法与数据分析 |
-| `07-academic-writing-revision` | 学术写作与修改 |
-| `08-citations-references-formatting` | 引用、参考文献与格式 |
-| `09-final-check` | 终稿检查 |
-| `10-presentation-defense` | 答辩与汇报 |
+| 目录 | 说明 | 已收录条目 |
+|------|------|------------|
+| [`01-topic-selection`](prompts/01-topic-selection/) | 选题 | [大学生论文选题 AI 指令](prompts/01-topic-selection/undergraduate-thesis-topic-selection/zh-CN.md) |
 
-补充说明文档可放在 `docs/` 目录。
+其他写作阶段的分类目录已预留，待有正式指令后再在此介绍。
 
 ## 如何使用
 
-1. 进入 `prompts/` 下与当前写作阶段对应的分类目录。
-2. 找到目标指令条目。
-3. 每条正式指令未来将提供 `zh-CN.md`（中文）与 `en-US.md`（英文）两种语言版本，按需选用。
+1. 进入上表中的分类目录，打开目标指令条目。
+2. 每条正式指令提供 `zh-CN.md`（中文）与 `en-US.md`（英文）两种语言版本，按需选用。
 
 ## 如何贡献
 
@@ -41,7 +31,7 @@ Ailwb AI Playbook 是一个面向大学生的论文写作 AI 指令开源仓库�
 
 ## 当前状态
 
-目前仅建立项目目录框架，尚未收录正式指令。各分类目录暂时为空，后续由仓库维护者自行添加。
+目前已收录选题阶段指令 1 条；其他分类尚未收录正式指令。
 
 ## 开源许可证
 
