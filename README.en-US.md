@@ -12,17 +12,17 @@ Help users find, learn, and apply AI prompts by thesis-writing stage, from topic
 
 ## Categories
 
-Currently available prompt categories:
+Currently available prompts:
 
-| Directory | Description | Entries |
-|-----------|-------------|---------|
-| [`01-topic-selection`](prompts/01-topic-selection/) | Topic selection | [Undergraduate Thesis Topic Selection AI Prompts](prompts/01-topic-selection/undergraduate-thesis-topic-selection/en-US.md) |
+| Category | Prompt |
+|----------|--------|
+| Topic selection | [Undergraduate Thesis Topic Selection AI Prompts](prompts/01-topic-selection/undergraduate-thesis-topic-selection/en-US.md) |
 
-Other writing-stage directories are reserved and will be listed here once official prompts are added.
+Other writing stages will be listed here once official prompts are added.
 
 ## How to Use
 
-1. Open a category from the table above and locate the prompt entry you need.
+1. Click a prompt link in the table above to open the file directly.
 2. Each official prompt provides both `zh-CN.md` (Chinese) and `en-US.md` (English); use the language that fits your workflow.
 
 ## How to Contribute

@@ -12,17 +12,17 @@ Ailwb AI Playbook 是一个面向大学生的论文写作 AI 指令开源仓库�
 
 ## 内容分类
 
-目前已收录的指令分类如下：
+目前已收录的指令如下：
 
-| 目录 | 说明 | 已收录条目 |
-|------|------|------------|
-| [`01-topic-selection`](prompts/01-topic-selection/) | 选题 | [大学生论文选题 AI 指令](prompts/01-topic-selection/undergraduate-thesis-topic-selection/zh-CN.md) |
+| 分类 | 指令 |
+|------|------|
+| 选题 | [大学生论文选题 AI 指令](prompts/01-topic-selection/undergraduate-thesis-topic-selection/zh-CN.md) |
 
-其他写作阶段的分类目录已预留，待有正式指令后再在此介绍。
+其他写作阶段待有正式指令后再在此介绍。
 
 ## 如何使用
 
-1. 进入上表中的分类目录，打开目标指令条目。
+1. 点击上表中的指令链接，直接打开对应文件。
 2. 每条正式指令提供 `zh-CN.md`（中文）与 `en-US.md`（英文）两种语言版本，按需选用。
 
 ## 如何贡献
