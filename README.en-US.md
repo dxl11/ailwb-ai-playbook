@@ -17,6 +17,7 @@ Currently available prompts:
 | Category | Prompt |
 |----------|--------|
 | Topic selection | [Undergraduate Thesis Topic Selection AI Prompts](prompts/01-topic-selection/undergraduate-thesis-topic-selection/en-US.md) |
+| Research proposal | [Complete AI Prompt Handbook for Writing a Research Proposal](prompts/02-research-proposal/research-proposal-complete-handbook/en-US.md) |
 
 Other writing stages will be listed here once official prompts are added.
 
@@ -31,7 +32,7 @@ Contributions are welcome: new prompts, improvements to existing content, or doc
 
 ## Current Status
 
-One topic-selection prompt set is available. Other categories do not yet include official prompts.
+One topic-selection prompt set and one research-proposal prompt set are available. Other categories do not yet include official prompts.
 
 ## License
 
