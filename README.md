@@ -18,6 +18,7 @@ Ailwb AI Playbook 是一个面向大学生的论文写作 AI 指令开源仓库�
 |------|------|
 | 选题 | [大学生论文选题 AI 指令](prompts/01-topic-selection/undergraduate-thesis-topic-selection/zh-CN.md) |
 | 开题报告 | [AI 写开题报告完整指令手册](prompts/02-research-proposal/research-proposal-complete-handbook/zh-CN.md) |
+| 文献检索与阅读 | [文献搜不到？一条AI指令生成中英文检索词](prompts/03-literature-search-reading/literature-search-keywords-zh-en/zh-CN.md) |
 
 其他写作阶段待有正式指令后再在此介绍。
 
@@ -32,7 +33,7 @@ Ailwb AI Playbook 是一个面向大学生的论文写作 AI 指令开源仓库�
 
 ## 当前状态
 
-目前已收录选题阶段指令 1 条、开题报告阶段指令 1 条；其他分类尚未收录正式指令。
+目前已收录选题 1 条、开题报告 1 条、文献检索与阅读 1 条；其他分类尚未收录正式指令。
 
 ## 开源许可证
 
